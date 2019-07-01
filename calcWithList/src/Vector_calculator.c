@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : Vector calculator with text file
+ Name        : Vector calculator with list
  Author      : VensSent
  Version     :
  Copyright   : Bulavin Ivan
